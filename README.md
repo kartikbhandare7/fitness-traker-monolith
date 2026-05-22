@@ -1,27 +1,10 @@
-bruh, that’s actually a pretty solid project choice for a beginner-to-intermediate backend portfolio project. It covers real industry concepts like:
 
-* Spring Security
-* JWT authentication
-* RBAC
-* Docker
-* REST APIs
-* Validation
-* Swagger/OpenAPI
-* MySQL
-* JPA/Hibernate
-
-That’s enough to make a strong GitHub project if the README is polished well. ([YouTube][1])
-
-Here’s a professional README template customized for your project.
-
----
 
 # Fitness Tracker API
 
 A production-style Fitness Tracker backend application built using Spring Boot.
 This project provides secure REST APIs for tracking workouts, managing fitness activities, authentication using JWT, and role-based authorization.
 
-The project was built by following and implementing concepts from Faisal Memon’s Spring Boot course while customizing and practicing the implementation independently. ([YouTube][1])
 
 ---
 
