@@ -198,27 +198,3 @@ mvn spring-boot:run
 
 ---
 
-## Acknowledgements
-
-Special thanks to Faisal Memon for the detailed educational course and backend architecture guidance. ([YouTube][1])
-
----
-
-## License
-
-This project is for learning and educational purposes.
-
----
-
-Next step:
-send me:
-
-* your GitHub repo name
-* actual endpoints you implemented
-* whether you added screenshots
-* whether Docker actually works in your project
-* whether you deployed it anywhere
-
-Then I’ll help you make this README look like a polished recruiter-grade project instead of a tutorial clone.
-
-[1]: https://www.youtube.com/watch?v=NViOWCfROQk&utm_source=chatgpt.com "(हिन्दी) Spring Boot 4 Project Course | Build Fitness Tracker with Spring Security, JWT & Docker - YouTube"
