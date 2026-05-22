@@ -83,6 +83,7 @@ Example:
 ```http
 Authorization: Bearer your_jwt_token
 ```
+<img width="1397" height="931" alt="image" src="https://github.com/user-attachments/assets/e6347c1b-e88d-4037-89ea-a17cc8d94e77" />
 
 ---
 
